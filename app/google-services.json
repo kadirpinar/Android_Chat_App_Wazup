@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "748817585939",
+    "firebase_url": "https://wazup-9c37b.firebaseio.com",
+    "project_id": "wazup-9c37b",
+    "storage_bucket": "wazup-9c37b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:748817585939:android:ef79a188c9532235",
+        "android_client_info": {
+          "package_name": "com.example.wazup"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "748817585939-lcfpf67udvr25uff2q7c1aja4fbv4e6f.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.wazup",
+            "certificate_hash": "522606fd2f05d4efb2ae5339920c7eda900669a5"
+          }
+        },
+        {
+          "client_id": "748817585939-dft2esdaui6jcesul2605nfk6p01a0og.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5ekArCdLeQ5Ygj2V-ZVPxpp0nAmIGIgQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "748817585939-dft2esdaui6jcesul2605nfk6p01a0og.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
